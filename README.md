@@ -1,5 +1,7 @@
 # hello-world
 Just another repository
 
-Hey there!I have nothing to in mind now cause my brain is dead
-also i cant wait for texas chicken
+Hi again. I realized that i've activated this account long ago and this account just sits there and nothing happens to it.
+
+I think I have to commit into learning how to use github
+
